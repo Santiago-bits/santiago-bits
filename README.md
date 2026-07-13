@@ -7,8 +7,8 @@
   <a href="https://github.com/santiago-bits" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-santiago--bits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Cambiá "TU_NUMERO_AQUÍ" por tu número real con código de área (ej: 549345XXXXXXX) -->
-  <a href="https://wa.me/TU_NUMERO_AQUÍ" target="_blank">
+  
+  <a href="https://wa.me/3456268638" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-CONTACTAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
@@ -20,11 +20,11 @@
 
 Soy estudiante de 2.° año de la **Tecnicatura Superior en Programación (UTN FRCO)** y desarrollador Full Stack Jr. Más allá de los lenguajes, me considero un apasionado de la lógica y la arquitectura de software, enfocado en entender *cómo* y *por qué* funcionan las cosas para escribir código eficiente y mantenible.
 
-- 🧠 **Pensamiento Analítico:** Capacidad para desglosar problemas complejos en soluciones lógicas, estructuradas y escalables[cite: 4].
-- ⚡ **Backend & Concurrencia:** Sólido entendimiento en la optimización de flujos asincrónicos, comunicación cliente-servidor y control de tráfico en red[cite: 4].
-- 🗄️ **Modelado de Datos:** Capacidad para diseñar, estructurar y optimizar bases de datos relacionales, asegurando la integridad del sistema[cite: 4].
-- 🎨 **Adaptabilidad Full Stack:** Flexibilidad para moverme entre la robustez del backend y el desarrollo de interfaces dinámicas y responsivas orientadas al usuario[cite: 4].
-- 📈 **Evolución Constante:** Mentalidad ágil y facilidad para adoptar nuevas tecnologías, herramientas o metodologías de trabajo en poco tiempo[cite: 4].
+- 🧠 **Pensamiento Analítico:** Capacidad para desglosar problemas complejos en soluciones lógicas, estructuradas y escalables
+- ⚡ **Backend & Concurrencia:** Sólido entendimiento en la optimización de flujos asincrónicos, comunicación cliente-servidor y control de tráfico en red
+- 🗄️ **Modelado de Datos:** Capacidad para diseñar, estructurar y optimizar bases de datos relacionales, asegurando la integridad del sistema
+- 🎨 **Adaptabilidad Full Stack:** Flexibilidad para moverme entre la robustez del backend y el desarrollo de interfaces dinámicas y responsivas orientadas al usuario
+- 📈 **Evolución Constante:** Mentalidad ágil y facilidad para adoptar nuevas tecnologías, herramientas o metodologías de trabajo en poco tiempo
 ---
 
 ### 🛠️ Mi Stack Tecnológico
