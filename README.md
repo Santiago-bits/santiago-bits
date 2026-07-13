@@ -15,13 +15,16 @@
 
 ---
 
-### 👤 Sobre mí
 
-- 🎓 Actualmente cursando la **Tecnicatura Superior en Programación** en la **UTN Facultad Regional Concordia**.
-- 🚀 Desarrollador **Full Stack Jr.** enfocado en la optimización del backend, flujos asincrónicos y código limpio[cite: 4].
-- 🛠️ Creador de proyectos interactivos como **Snake Online**, **Plaxmar** y **Maze Game**[cite: 4, 5].
-- 📍 Ubicado en **Concordia, Entre Ríos, Argentina**.
+### 👤 Sobre mí & Capacidades
 
+Soy estudiante de 2.° año de la **Tecnicatura Superior en Programación (UTN FRCO)** y desarrollador Full Stack Jr. Más allá de los lenguajes, me considero un apasionado de la lógica y la arquitectura de software, enfocado en entender *cómo* y *por qué* funcionan las cosas para escribir código eficiente y mantenible.
+
+- 🧠 **Pensamiento Analítico:** Capacidad para desglosar problemas complejos en soluciones lógicas, estructuradas y escalables[cite: 4].
+- ⚡ **Backend & Concurrencia:** Sólido entendimiento en la optimización de flujos asincrónicos, comunicación cliente-servidor y control de tráfico en red[cite: 4].
+- 🗄️ **Modelado de Datos:** Capacidad para diseñar, estructurar y optimizar bases de datos relacionales, asegurando la integridad del sistema[cite: 4].
+- 🎨 **Adaptabilidad Full Stack:** Flexibilidad para moverme entre la robustez del backend y el desarrollo de interfaces dinámicas y responsivas orientadas al usuario[cite: 4].
+- 📈 **Evolución Constante:** Mentalidad ágil y facilidad para adoptar nuevas tecnologías, herramientas o metodologías de trabajo en poco tiempo[cite: 4].
 ---
 
 ### 🛠️ Mi Stack Tecnológico
