@@ -2,11 +2,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">Soy estudiante de 2.° año de la Tecnicatura Superior en Programación en la UTN Facultad Regional Concordia[cite: 4] y desarrollador Full Stack Jr. Me apasiona resolver problemas mediante código, optimizar la lógica del backend y diseñar interfaces dinámicas y accesibles.<br><br>Actualmente estoy enfocado en profundizar mis conocimientos en arquitecturas escalables, flujos asincrónicos y el desarrollo de aplicaciones web interactivas.</h3>
+<h3 data-importer="text" align="center">Soy estudiante de 2.° año de la Tecnicatura Superior en Programación en la UTN Facultad Regional Concordia y desarrollador Full Stack Jr. Me apasiona resolver problemas mediante código, optimizar la lógica del backend y diseñar interfaces dinámicas y accesibles.<br><br>Actualmente estoy enfocado en profundizar mis conocimientos en arquitecturas escalables, flujos asincrónicos y el desarrollo de aplicaciones web interactivas.</h3>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
+<img data-importer="image" align="right" height="168" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
 
 ###
 
@@ -36,13 +36,13 @@
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/santijacobo_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="43" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/396390035294781441" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="43" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/santiago-jacobo-882b41305/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="43" alt="linkedin logo"  />
   </a>
 </div>
 
