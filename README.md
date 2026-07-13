@@ -53,10 +53,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/santiago-bits/santiago-bits/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiago-bits&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-bits&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
