@@ -1,18 +1,12 @@
 <h1 align="center">¡Hola! Soy Santiago Jacobo 👋</h1>
 
 <p align="center">
-  <a href="mailto:santiagojacobo22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-santiagojacobo22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/santiago-bits" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-santiago--bits-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <a href="https://wa.me/3456268638" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-CONTACTAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
 
+[![Gmail](https://img.shields.io/badge/GMAIL-santiagojacobo22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagojacobo22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-santiago--bits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiago-bits)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTACTAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3456268638)
+
+</p>
 ---
 
 
