@@ -3,7 +3,7 @@
 <p align="center">
 
 [![Gmail](https://img.shields.io/badge/GMAIL-santiagojacobo22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagojacobo22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-santiago--bits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiago-bits)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-santiago--jacobo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-jacobo/)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTACTAR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3456268638)
 
 </p>
