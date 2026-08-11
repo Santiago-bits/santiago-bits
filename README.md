@@ -68,10 +68,6 @@ Soy estudiante de 2.° año de la **Tecnicatura Superior en Programación (UTN F
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santiago-bits&show_icons=true&include_all_commits=true&cache_seconds=86400&bg_color=241b31&title_color=d1b3ff&text_color=e2d6f5&icon_color=b380ff&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-bits&layout=compact&card_width=320&langs_count=5&cache_seconds=86400&bg_color=241b31&title_color=d1b3ff&text_color=e2d6f5&icon_color=b380ff&hide_border=true" height="150" alt="Languages" />
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/santiago-bits/santiago-bits/snake-output/snake.svg" alt="Snake Animation" />
